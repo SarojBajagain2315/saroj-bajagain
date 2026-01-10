@@ -13,12 +13,12 @@
     }
   }
 
-  /* <!-- Designed By Shubham Gupta. -->
-<!-- Designed By Shubham Gupta. -->
-<!-- Designed By Shubham Gupta. -->
-<!-- Designed By Shubham Gupta. -->
-<!-- Designed By Shubham Gupta. -->
-<!-- Designed By Shubham Gupta. --> */
+  /* <!-- Designed By Saroj Bajagain. -->
+<!-- Designed By Saroj Bajagain. -->
+<!-- Designed By Saroj Bajagain. -->
+<!-- Designed By Saroj Bajagain. -->
+<!-- Designed By Saroj Bajagain. -->
+<!-- Designed By Saroj Bajagain. --> */
 
   /**
    * Easy event listener function
@@ -62,11 +62,11 @@
   onscroll(document, navbarlinksActive)
 
   /* <!-- Designed By Shubham Gupta. -->
-<!-- Designed By Shubham Gupta. -->
-<!-- Designed By Shubham Gupta. -->
-<!-- Designed By Shubham Gupta. -->
-<!-- Designed By Shubham Gupta. -->
-<!-- Designed By Shubham Gupta. --> */
+<!-- Designed By Saroj Bajagain. -->
+<!-- Designed By Saroj Bajagain. -->
+<!-- Designed By Saroj Bajagain. -->
+<!-- Designed By Saroj Bajagain. -->
+<!-- Designed By Saroj Bajagain. --> */
   /**
    * Scrolls to an element with header offset
    */
@@ -230,9 +230,10 @@
   new PureCounter();
 
 })()
-/* <!-- Designed By Shubham Gupta. -->
-<!-- Designed By Shubham Gupta. -->
-<!-- Designed By Shubham Gupta. -->
-<!-- Designed By Shubham Gupta. -->
-<!-- Designed By Shubham Gupta. -->
-<!-- Designed By Shubham Gupta. --> */
+/* <!-- Designed By Saroj Bajagain. -->
+<!-- Designed By Saroj Bajagain. -->
+<!-- Designed By Saroj Bajagain. -->
+<!-- Designed By Saroj Bajagain. -->
+<!-- Designed By Saroj Bajagain -->
+
+<!-- Designed By Saroj Bajagain. --> */
